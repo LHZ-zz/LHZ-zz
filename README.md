@@ -93,7 +93,3 @@ Here are some ideas to get you started:
   <a href="https://github.com/LHZ-zz">
     <img height="24px" src="https://badges.strrl.dev/commits/monthly/LHZ-zz?&color=D9775E&logo=github"></a>
 </div>
-
-<div>
-  <img src="https://skillicons.dev/icons?i=c,cpp,qt,python,cmake" />
-</div>
