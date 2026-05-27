@@ -68,16 +68,7 @@ Here are some ideas to get you started:
 <!-- 分隔线 -->
 <hr>
 
-### Get what you want☟☟☟
-<!-- 置顶仓库 -->
-<div align="left">
-  <a href="https://github.com/LHZ-zz/DDPG"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=LHZ-zz&repo=DDPG&show_owner=true&theme=gruvbox" /></a>&emsp;
-  <a href="https://github.com/LHZ-zz/Qt_MultiThread_Method"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=LHZ-zz&repo=Qt_MultiThread_Method&show_owner=true&theme=gruvbox" /></a>&emsp;
-  <br>
-  <a href="https://github.com/LHZ-zz/SpotDetection_CircleFitting"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=LHZ-zz&repo=SpotDetection_CircleFitting&show_owner=true&theme=gruvbox" /></a>&emsp;
-  <a href="https://github.com/LHZ-zz/LHZ-zz.github.io"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=LHZ-zz&repo=LHZ-zz.github.io&show_owner=true&theme=gruvbox" /></a>&emsp;
-  <br>
-</div>
+
 
 
 <!-- 仓库统计 -->
