@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   </p>
 
 <!-- 数据统计展示 -->
-  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Code-Newborn&show_icons=true&theme=gruvbox_light&include_all_commits=true&hide_border=true" /></a>| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Newborn&layout=compact&langs_count=8&hide_border=true&theme=gruvbox_light" /></a>|
+  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LHZ-zz&show_icons=true&theme=gruvbox_light&include_all_commits=true&hide_border=true" /></a>| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHZ-zz&layout=compact&langs_count=8&hide_border=true&theme=gruvbox_light" /></a>|
   | ------------- | ------------- |
 
 <!-- 语言图标 -->
@@ -71,11 +71,11 @@ Here are some ideas to get you started:
 ### Get what you want☟☟☟
 <!-- 置顶仓库 -->
 <div align="left">
-  <a href="https://github.com/Code-Newborn/DDPG"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Newborn&repo=DDPG&show_owner=true&theme=gruvbox" /></a>&emsp;
-  <a href="https://github.com/Code-Newborn/Qt_MultiThread_Method"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Newborn&repo=Qt_MultiThread_Method&show_owner=true&theme=gruvbox" /></a>&emsp;
+  <a href="https://github.com/LHZ-zz/DDPG"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=LHZ-zz&repo=DDPG&show_owner=true&theme=gruvbox" /></a>&emsp;
+  <a href="https://github.com/LHZ-zz/Qt_MultiThread_Method"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=LHZ-zz&repo=Qt_MultiThread_Method&show_owner=true&theme=gruvbox" /></a>&emsp;
   <br>
-  <a href="https://github.com/Code-Newborn/SpotDetection_CircleFitting"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Newborn&repo=SpotDetection_CircleFitting&show_owner=true&theme=gruvbox" /></a>&emsp;
-  <a href="https://github.com/Code-Newborn/Code-Newborn.github.io"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Newborn&repo=Code-Newborn.github.io&show_owner=true&theme=gruvbox" /></a>&emsp;
+  <a href="https://github.com/LHZ-zz/SpotDetection_CircleFitting"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=LHZ-zz&repo=SpotDetection_CircleFitting&show_owner=true&theme=gruvbox" /></a>&emsp;
+  <a href="https://github.com/LHZ-zz/LHZ-zz.github.io"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=LHZ-zz&repo=LHZ-zz.github.io&show_owner=true&theme=gruvbox" /></a>&emsp;
   <br>
 </div>
 
@@ -84,12 +84,12 @@ Here are some ideas to get you started:
 <div align="left">
   <a href="https://www.cznewborn.com">
     <img height="24px" src="https://img.shields.io/badge/Blog-博客-0E83CD" /></a>
-  <a href="https://github.com/Code-Newborn">
-    <img height="24px" src="https://badges.strrl.dev/visits/Code-Newborn/Code-Newborn?&color=BB293C&logo=github"></a>
-  <a href="https://github.com/Code-Newborn">
-    <img height="24px" src="https://badges.strrl.dev/years/Code-Newborn?&color=F34B7D&logo=github"></a>
-  <a href="https://github.com/Code-Newborn?tab=repositories">
-    <img height="24px" src="https://badges.strrl.dev/repos/Code-Newborn?&color=DA5B0B&logo=github"></a>
-  <a href="https://github.com/Code-Newborn">
-    <img height="24px" src="https://badges.strrl.dev/commits/monthly/Code-Newborn?&color=D9775E&logo=github"></a>
+  <a href="https://github.com/LHZ-zz">
+    <img height="24px" src="https://badges.strrl.dev/visits/LHZ-zz/LHZ-zz?&color=BB293C&logo=github"></a>
+  <a href="https://github.com/LHZ-zz">
+    <img height="24px" src="https://badges.strrl.dev/years/LHZ-zz?&color=F34B7D&logo=github"></a>
+  <a href="https://github.com/LHZ-zz?tab=repositories">
+    <img height="24px" src="https://badges.strrl.dev/repos/LHZ-zz?&color=DA5B0B&logo=github"></a>
+  <a href="https://github.com/LHZ-zz">
+    <img height="24px" src="https://badges.strrl.dev/commits/monthly/LHZ-zz?&color=D9775E&logo=github"></a>
 </div>
