@@ -49,10 +49,6 @@ Here are some ideas to get you started:
   </a>
   </p>
 
-<!-- 数据统计展示 -->
-  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LHZ-zz&show_icons=true&theme=gruvbox_light&include_all_commits=true&hide_border=true" /></a>| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHZ-zz&layout=compact&langs_count=8&hide_border=true&theme=gruvbox_light" /></a>|
-  | ------------- | ------------- |
-
 <!-- 语言图标 -->
 <div align="left">
   <span >
